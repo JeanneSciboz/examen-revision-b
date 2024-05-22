@@ -46,6 +46,6 @@
   transition: transform 0.5s;
 }
 
-.article-title:hover {
-  transform: scale(1.5);
+.article:hover .article-title:hover {
+  transform: scale(110%);
 }
